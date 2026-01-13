@@ -34,14 +34,12 @@ desde la arquitectura hasta la ejecución en producción.
 
 ## 🗂️ Estructura del repositorio
 
-DSR-LABS/
-│
-├── [`FUNDACION.md`](FUNDACION.md) # Texto fundacional (ancla ideológica)
-├── [`ESTRATEGIA.md`](ESTRATEGIA.md) # Misión, visión y valores
-├── [`ROADMAP.md`](ROADMAP.md) # Plan de construcción por fases y días
-│
-├── PUBLIC/ # Posts, manifiestos, updates públicos
-└── SYSTEMS/ # Arquitecturas, código, documentación técnica
+- **DSR-LABS/**
+  - [`FUNDACION.md`](FUNDACION.md) — Texto fundacional (ancla ideológica)
+  - [`ESTRATEGIA.md`](ESTRATEGIA.md) — Misión, visión y valores
+  - [`ROADMAP.md`](ROADMAP.md) — Plan de construcción por fases y días
+  - **PUBLIC/** — Posts, manifiestos, updates públicos
+  - **SYSTEMS/** — Arquitecturas, código y documentación técnica
 
 ---
 
