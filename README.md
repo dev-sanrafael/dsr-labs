@@ -44,7 +44,7 @@ desde la arquitectura hasta la ejecución en producción.
     - manifiestos/ — Declaraciones de principios
     - updates/ — Progreso semanal
 
-  - [`SYSTEMS//`](SYSTEMS/) — Arquitecturas, código y documentación técnica
+  - [`SYSTEMS/`](SYSTEMS/) — Arquitecturas, código y documentación técnica
     - architecture/ — Diseños de arquitectura
     - orchestrators/ — Código de orquestadores
     - infrastructure/ — Configs de infraestructura
