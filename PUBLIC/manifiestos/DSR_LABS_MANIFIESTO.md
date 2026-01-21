@@ -1,3 +1,8 @@
+---
+title: Manifiesto DSR Labs
+permalink: /PUBLIC/manifiestos/DSR_LABS_MANIFIESTO/
+---
+
 ### Manifiesto DSR Labs
 
 **Qué estamos construyendo y por qué**

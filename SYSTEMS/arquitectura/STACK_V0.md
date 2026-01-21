@@ -1,4 +1,8 @@
-# 🟦 Día 6 — Stack v0 de DSR Labs
+---
+title: Stack v0
+permalink: /SYSTEMS/arquitectura/STACK_V0/
+---
+Stack v0 de DSR Labs
 
 Este documento define el **Stack v0** de DSR Labs.
 No describe un sistema productivo ni infraestructura real.
