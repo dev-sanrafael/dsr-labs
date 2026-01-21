@@ -1,7 +1,3 @@
----
-title: Stack v0
-permalink: /DSR-Labs/SYSTEMS/arquitectura/STACK_V0
----
 Stack v0 de DSR Labs
 
 Este documento define el **Stack v0** de DSR Labs.
